@@ -1,4 +1,11 @@
 {
+    "ThreadTelegramAuto": {
+        "version": "1.0.0",
+        "download_url": "https://github.com/Kimchanghee/paro-releases/releases/download/v1.0.0/Thread_Telegram_Auto.exe",
+        "changelog": "- 초기 릴리즈\n- CEO Thread Auto 기반 텔레그램 채널 자동 업로드 기능\n- 원본 → Threads → 텔레그램 3단 변환\n- 텔레그램 채널 자동 업로드",
+        "file_size": 142962923,
+        "mandatory": false
+    },
     "ThreadsExtractor": {
         "version": "1.3.2",
         "download_url": "https://github.com/Kimchanghee/paro-releases/releases/download/v1.3.2/ThreadsExtractor.exe",
